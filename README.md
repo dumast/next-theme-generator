@@ -1,5 +1,5 @@
 # Next.js Theme Generator
-*Next.js code comes from this website: (https://electricanimals.com/articles/next-js-dark-mode-toggle)[https://electricanimals.com/articles/next-js-dark-mode-toggle]*
+*Next.js code comes from this website: (https://electricanimals.com/articles/next-js-dark-mode-toggle)*
 
 ## Requirements
 * Linux
